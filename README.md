@@ -12,5 +12,5 @@
 
 ### I'm using an Nvidia GPU, so, the easiest way to get that up and running with TensorFlow 2.3 and Keras is to follow these steps by [Millan Sanchez](https://millansanchez.medium.com/install-tensorflow-2-with-gpu-support-dec-2020-for-windows-10-using-conda-e4c0d838d497). Otherwise, do everything on CPU, but it will take longer.
 
-### The jupyter notebooks will create all directories automatically, and place everythi where it should go. Please, keep in mind that having everything downloaded and processed will use around 50 GB of storage.
+### The jupyter notebooks will create all directories automatically, and place everything where it should go. Please, keep in mind that having everything downloaded and processed will use around 50 GB of storage.
  
